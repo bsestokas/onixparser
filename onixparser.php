@@ -1,6 +1,6 @@
 <?php
 
-include('funcLibrary.php');
+//include('funcLibrary.php');
 define('DATA_PATH',"/home/bsestokas/onixxml/");
 define('DATA_FILE',"SagePublications_ONIX_US_04.26.2011.xml");
 
